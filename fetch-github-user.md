@@ -31,3 +31,6 @@ document.getElementById("fetch-user").onclick = function() {
   }
 } 
 ```
+
+![image](https://user-images.githubusercontent.com/6966136/173989670-28f5608e-e634-45a0-9768-b10afd938545.png)
+
